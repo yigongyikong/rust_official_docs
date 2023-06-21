@@ -1,0 +1,29 @@
+=====================================================================
+https://doc.rust-lang.org/book/title-page.html
+=====================================================================
+[The Rust Programming Language]
+- by Steve Klabnik and Carol Nichols, with contributions 
+    from the Rust Community
+= Steve Klabnik and Carol Nichols, Rust Community contributions(기여)에
+    의해 작성됬다.
+- This version of the text assumes 
+    you’re using Rust 1.67.1 (released 2023-02-09) or later. 
+= This version의 text는 Rust 1.67.1 (23/02/09에 릴리즈) 또는 그 이상을
+    using한 것으로 assumes(추정)한다.
+- See the “Installation” section of Chapter 1 to install 
+    or update Rust.
+= Rust를 install(설치) 또는 update(업데이트)하기 위해서 Chapter 1의
+    "Installation" section을 See(봐)라.
+- The HTML format is available online 
+    at https://doc.rust-lang.org/stable/book/ 
+    and offline with installations of Rust made with rustup; 
+    run rustup docs --book to open.
+= HTML format은 online으로는 https://doc.rust-lang.org/stable/book/에서
+    Rust를 installations(설치)해서 offline에서 available(이용가능)하다.
+    ; rustup 명령으로 "rustup docs --book"을 통해 open할 수 있다.
+- Several community translations are also available.
+= Several community translations(번역본)도 also(또한) available하다.
+- This text is available in paperback and ebook format 
+    from No Starch Press.
+= This text는 No Starch Press에서 paperback 및 ebook으로도 available하다.
+=====================================================================
